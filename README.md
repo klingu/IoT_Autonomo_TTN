@@ -1,10 +1,7 @@
 # IoT_Autonomo_TTN
 Sending sensor data to The Things Network with Autonomo + LoRaBee
 
-1. Install Arduino IDE
-2. Add URL to Board Defenitions
-3. Download Board Defenitions
-4. Add LoRaBee Sketch Library
+Please follow these 5 steps to get started :-)
 
 1. Install Arduino IDE
 Download and install the Arduino IDE via: https://www.arduino.cc/en/Main/Software
